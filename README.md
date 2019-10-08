@@ -71,8 +71,6 @@ If using Miro, you drag your video into the top, then select webM from the dropd
 [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) for the video tag
 [Good tutorial](https://addpipe.com/blog/10-advanced-features-in-html5-video-player/)
 
----> Check out the live demo on the [course website](https://art75.github.io/)
----> Download sample code for the demo [here](https://github.com/art75/art75.github.io/tree/master/codeDownloads)
 
 ### HTML <video> tag
 Here is the breakdown of the video tag:
